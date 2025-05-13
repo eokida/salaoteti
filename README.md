@@ -25,7 +25,7 @@ Dentre as funcionalidades, é possível criar, editar, pesquisar, visualizar e e
 - Listar clientes
 - Adicionar novo clientes
 - Editar um cliente existente
-- Excluir produto
+- Excluir cliente
 - Exibir detalhes do cliente
 - Pesquisar um cliente
 
